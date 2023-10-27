@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivlyn Tay Wan Rou</h1>
-<h3 align="center">A passionate frontend developer from Johor</h3>
+<h3 align="center">A software engineering student from UTM Johor</h3>
 
 - 📫 How to reach me **ivlyntay562003@gmail.com**
 
